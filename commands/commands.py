@@ -18,11 +18,9 @@ from config import Config
 
 #Inline Keyboard Button
 keyboard = [
-[
- InlineKeyboardButton("Source Code", url=Config.SOURCE)
 ],
 [
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("Bath Records")
 ]
 ]
 
